@@ -1,2 +1,4 @@
 # Train Announcement application demo
-![Train Announcement application demo]([video_url](https://github.com/satwash/Train-Announcement-app/blob/main/demo.mp4)https://github.com/satwash/Train-Announcement-app/blob/main/demo.mp4)
+
+https://github.com/satwash/Train-Announcement-app/assets/134083826/6791b4b4-8e03-42af-bb09-a8af57e76e38
+
